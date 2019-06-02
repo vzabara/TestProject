@@ -1,6 +1,0 @@
-C:\Users\Val\source\repos\TestProject\TestProject\bin\Debug\TestProject.dll
-C:\Users\Val\source\repos\TestProject\TestProject\bin\Debug\TestProject.pdb
-C:\Users\Val\source\repos\TestProject\TestProject\obj\Debug\TestProject.csprojAssemblyReference.cache
-C:\Users\Val\source\repos\TestProject\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
-C:\Users\Val\source\repos\TestProject\TestProject\obj\Debug\TestProject.dll
-C:\Users\Val\source\repos\TestProject\TestProject\obj\Debug\TestProject.pdb
